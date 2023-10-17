@@ -1,0 +1,3 @@
+These tutorials are the result of building the YouTube channel QuantPy.
+It's a about being a lifelong learner, so I hope you enjoy the journey!
+Together let's keeping working towards becoming a Quant. 
