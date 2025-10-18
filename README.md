@@ -10,11 +10,14 @@ I also will endeavour to publish a written tutorial on Medium for people who pre
 
 If you have any suggestion to improve this repository, feel free to open an issue or a pull request.
 
+## useful resources
+
+If you're looking for advice on how to get started studying Quant Finance here is my take [quantpy-manifesto](https://github.com/TheQuantPy/quantpy-manifesto).
+
+If you're wanting key insights into quant finance job market, key skills and entry requirements, take a look at [quant-jobs-research](https://github.com/TheQuantPy/quant-jobs-research).
+
 ## links
 
 - [YouTube](https://www.youtube.com/@QuantPy)
-- [Website](https://quantpy.com.au/)
+- [TheQuantProtocol](https://quantpykit.com/)
 - [Medium](https://medium.com/@pythonforquants)
-- [LinkedIn](https://www.linkedin.com/company/quantpy)
-- [Twitter](https://twitter.com/py_quant)
-- [Patreon](https://www.patreon.com/quantpy)
